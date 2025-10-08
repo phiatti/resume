@@ -1,0 +1,27 @@
+body {
+    font: caption;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+
+
+
+
+
+
+
+
+
+
+td {
+    border: 1px solid #66BFBF;
+    padding: 0.2rem;
+    text-align: left;
+}
+
+th {
+    border: 1px solid #66BFBF;
+    padding: 0.3rem;
+    background-color: #66BFBF;
+    color: white;
+}
